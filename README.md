@@ -1,6 +1,6 @@
 ## Hello There! 👋 
 
-###I'm Renz,
+### I'm Renz,
 a 👨‍💻 Data Engineer based in 🇵🇭 Metro Manila and loves 🎼 music, 🇯🇵 anime and 🐶 dogs! Currently 👨‍💻 working as a Data Engineer @ Asticom Technology, Inc. deployed in Gcash - Mynt under Mynt-AI platform. 
 
 ### 📡 I love Tech!
